@@ -1,0 +1,5 @@
+/Users/timofey/Desktop/kursovaya/kursovaya/bin/Debug/kursovaya.exe
+/Users/timofey/Desktop/kursovaya/kursovaya/bin/Debug/kursovaya.pdb
+/Users/timofey/Desktop/kursovaya/kursovaya/obj/Debug/kursovaya.csprojAssemblyReference.cache
+/Users/timofey/Desktop/kursovaya/kursovaya/obj/Debug/kursovaya.exe
+/Users/timofey/Desktop/kursovaya/kursovaya/obj/Debug/kursovaya.pdb
